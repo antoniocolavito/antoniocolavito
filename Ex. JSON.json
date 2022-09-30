@@ -1,0 +1,104 @@
+
+{
+    "rapporto rifiuti urbani italia/rifiuti reciclati per regione": [
+        {"nome regione":"Piemonte",
+        "codice regione":13,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],   
+        {"nome regione":"Lombardia",
+        "codice regione":10,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Veneto",
+        "codice regione":21,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Emilia Romagna",
+        "codice regione":6,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Marche",
+        "codice regione":11,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Molise",
+        "codice regione":12,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Lazio",
+        "codice regione":8,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Campania",
+        "codice regione":5,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Calabria",
+        "codice regione":4,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],
+        {"nome regione":"Puglia",
+        "codice regione":14,
+        "numero abitanti":4356000,
+        "ton rifiuti":2270,
+        "feedback attendibile":true
+        "rifiuti riciclati per settori merceologici":[
+            {"settore":"tessile","ton rifiuti riciclati":120},
+            {"settore":"organico","ton rifiuti riciclati":212},
+            {"settore":"metalli","ton rifiuti riciclati":22}
+        ],    
+]}      

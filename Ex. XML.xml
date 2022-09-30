@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rifiuti_urbani_italia>
+    <regione>
+        <nome_regione>Piemonte</nome_regione>
+        <codice_regione>13</codice_regione>
+        <abitanti>4.356mil</abitanti>
+        <kg_rifiuti>2270ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>516</rapporto_kg_rifiuti_per_abitante> <!--cifre non reali del rapporto Kg rifiuti/abitanti regione-->
+    </regione> 
+    <regione>
+        <nome_regione>Lombardia</nome_regione>
+        <codice_regione>10</codice_regione>
+        <abitanti>7.456mil</abitanti>
+        <kg_rifiuti>4562ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>612</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+ <regione>
+        <nome_regione>Veneto</nome_regione>
+        <codice_regione>21</codice_regione>
+        <abitanti>5.748mil</abitanti>
+        <kg_rifiuti>4874ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>547</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione>
+        <nome_regione>Emilia Romagna</nome_regione>
+        <codice_regione>06</codice_regione>
+        <abitanti>4.987mil</abitanti>
+        <kg_rifiuti>4578ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>657</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione>
+        <nome_regione>Marche</nome_regione>
+        <codice_regione>11</codice_regione>
+        <abitanti>1.575mil</abitanti>
+        <kg_rifiuti>2577ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>567</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione>
+        <nome_regione>Molise</nome_regione>
+        <codice_regione>12</codice_regione>
+        <abitanti>1.321mil</abitanti>
+        <kg_rifiuti>1547ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>324</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione>
+        <nome_regione>Lazio</nome_regione>
+        <codice_regione>08</codice_regione>
+        <abitanti>8.987mil</abitanti>
+        <kg_rifiuti>7.958ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>612</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione>
+        <nome_regione>Campania</nome_regione>
+        <codice_regione>05</codice_regione>
+        <abitanti>6.476mil</abitanti>
+        <kg_rifiuti>5687ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>758</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione codice="04">
+        <nome_regione>Calabria</nome_regione>
+        <abitanti>5.345mil</abitanti>
+        <kg_rifiuti>3928ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>362</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+     <regione codice="14">
+        <nome_regione>Puglia</nome_regione>
+        <abitanti>5.476mil</abitanti>
+        <kg_rifiuti>4582ton</kg_rifiuti>
+        <rapporto_kg_rifiuti_per_abitante>541</rapporto_kg_rifiuti_per_abitante>
+    </regione>
+</rifiuti_urbani_italia>
