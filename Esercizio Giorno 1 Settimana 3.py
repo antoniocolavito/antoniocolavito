@@ -4,7 +4,7 @@ conn = mysql.connector.connect(user='root', password='---', host='---', database
 
 cursor = conn.cursor()
 
-sql= "insert into AUTORE (Nome, TitoloCanzone) VALUES ('Paolo Conte', 'Via con me')"
+sql= "insert into AUTORE (Nome, TitoloCanzone) VALUES ('%s', '&s')"
 
 
 
